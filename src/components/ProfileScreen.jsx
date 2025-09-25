@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { userAPI } from '../api';
-import { Button } from '../ui/button';
-import { Input } from '../ui/input';
-import { Label } from '../ui/label';
-import { Card, CardContent, CardHeader, CardTitle } from '../ui/card';
-import { Avatar, AvatarImage, AvatarFallback } from '../ui/avatar';
+import { Button } from '../frontpart/button';
+import { Input } from '../frontpart/input';
+import { Label } from '../frontpart/label';
+import { Card, CardContent, CardHeader, CardTitle } from '../frontpart/card';
+import { Avatar, AvatarImage, AvatarFallback } from '../frontpart/avatar';
 import {
   ArrowLeft,
   User,

@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { Button } from '../ui/button';
-import { Input } from '../ui/input';
-import { Card, CardContent } from '../ui/card';
-import { Avatar, AvatarImage, AvatarFallback } from '../ui/avatar';
+import { Button } from '../frontpart/button';
+import { Input } from '../frontpart/input';
+import { Card, CardContent } from '../frontpart/card';
+import { Avatar, AvatarImage, AvatarFallback } from '../frontpart/avatar';
 import { Plus, Search } from 'lucide-react';
 import { PasswordCard } from './PasswordCard';
 

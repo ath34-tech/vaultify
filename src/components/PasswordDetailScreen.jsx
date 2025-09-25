@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { Card, CardContent, CardHeader, CardTitle } from '../ui/card';
-import { Button } from '../ui/button';
-import { Badge } from '../ui/badge';
-import { Separator } from '../ui/separator';
+import { Card, CardContent, CardHeader, CardTitle } from '../frontpart/card';
+import { Button } from '../frontpart/button';
+import { Badge } from '../frontpart/badge';
+import { Separator } from '../frontpart/separator';
 import { ArrowLeft, Eye, EyeOff, Copy, Mail, User, Phone, Calendar, Shield, Edit, Trash2, Lock } from 'lucide-react';
 import { toast } from 'sonner';
 

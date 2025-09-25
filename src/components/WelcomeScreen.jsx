@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from '../ui/button';
+import { Button } from '../frontpart/button';
 import { Shield, Lock } from 'lucide-react';
 
 export function WelcomeScreen({ onLogin, onRegister }) {

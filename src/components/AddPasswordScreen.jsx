@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from "react";
-import { Button } from "../ui/button";
-import { Input } from "../ui/input";
-import { Label } from "../ui/label";
+import { Button } from "../frontpart/button";
+import { Input } from "../frontpart/input";
+import { Label } from "../frontpart/label";
 import {
   Card,
   CardContent,
   CardHeader,
   CardTitle,
-} from "../ui/card";
+} from "../frontpart/card";
 import {
   ArrowLeft,
   Globe,
